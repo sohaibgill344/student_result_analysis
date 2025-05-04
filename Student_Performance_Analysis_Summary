@@ -1,0 +1,22 @@
+📊 Student Performance Analysis: Key Findings
+1. Parental Education
+Students whose parents have a master's degree score, on average, 10 points higher in all subjects compared to those with high school educated parents (Refer to heatmap for specific values).
+
+2. Parental Marital Status
+Students of widowed parents have a negligible 1-2 point advantage in average scores compared to other marital statuses.
+
+3. Extracurricular Activities
+Students participating in sports show a marginal increase of ~3 points in average scores.
+
+4. Weekly Study Hours
+Students studying >10 hours weekly score 5-7 points higher in Math and Reading compared to those studying <5 hours (refer to scatterplot).
+
+5. Ethnic Group Distribution
+Group C comprises ~32% of the student population, while Group A represents only ~9% (Refer to pie chart).
+
+6. Outliers
+Math scores show a higher frequency of outliers, indicating a wider performance gap. ~10% of students score below 40 in Math (Refer to boxplot).
+
+🔑 Conclusion
+Parental education significantly impacts student performance, with higher education levels linked to better scores. While factors like marital status, activities, and study habits show minor correlations, their influence is less pronounced. Ethnic group distribution highlights potential disparities, and outlier analysis reveals math as a subject with varying performance levels. Further statistical validation and deeper exploration are recommended to strengthen these findings and inform targeted educational strategies.
+
